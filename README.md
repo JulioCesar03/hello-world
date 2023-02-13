@@ -1,2 +1,2 @@
 # hello-world
-Exercicio 001
+Pasta criada para exercitar os comando do Git 
